@@ -1,0 +1,707 @@
+[
+   {
+      "name": "Женщинам",
+      "subcategories": [
+         {
+            "name": "Пальто",
+            "objects": [
+               {
+                  "id": 1,
+                  "name": "Блузка с кружевными вставками",
+                  "price": "1000₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Элегантная блузка с кружевными вставками - идеальное дополнение к вашему гардеробу. Изготовлена из высококачественного хлопка для комфорта и стиля. Доступна в нескольких цветах, подходит как для повседневного, так и для вечернего образа."
+               },
+               {
+                  "id": 2,
+                  "name": "Пальто из шерсти с поясом",
+                  "price": "2800₽",
+                  "imgUrl1": "img/product-cards/product-card_5.webp",
+                  "imgUrl2": "img/product-cards/product-card_6.webp",
+                  "imgUrl3": "img/product-cards/product-card_7.webp",
+                  "imgUrl4": "img/product-cards/product-card_8.webp",
+                  "details": "Теплое и стильное пальто из натуральной шерсти с поясом. Идеально для холодной погоды"
+               },
+               {
+                  "id": 3,
+                  "name": "Пальто \"Оверсайз\" из кашемира",
+                  "price": "2500₽",
+                  "imgUrl1": "img/product-cards/product-card_9.jpg",
+                  "imgUrl2": "img/product-cards/product-card_9.jpg",
+                  "imgUrl3": "img/product-cards/product-card_9.jpg",
+                  "imgUrl4": "img/product-cards/product-card_9.jpg",
+                  "details": "Пальто \"Оверсайз\" из мягкого кашемира с крупной пуговицей. Подходит для разных образов."
+               },
+               {
+                  "id": 4,
+                  "name": "Повседневное хлопковое пальто",
+                  "price": "3000₽",
+                  "imgUrl1": "img/product-cards/product-card_10.jpg",
+                  "imgUrl2": "img/product-cards/product-card_10.jpg",
+                  "imgUrl3": "img/product-cards/product-card_10.jpg",
+                  "imgUrl4": "img/product-cards/product-card_10.jpg",
+                  "details": "Это пальто - воплощение уютного повседневного шика. Изготовленное из высококачественного хлопка, оно обеспечит вас максимальным комфортом и станет незаменимым элементом вашего гардероба для повседневных выходов."
+               },
+               {
+                  "id": 5,
+                  "name": "Стеганое теплое пуховое пальто",
+                  "price": "3500₽",
+                  "imgUrl1": "img/product-cards/product-card_11.jpg",
+                  "imgUrl2": "img/product-cards/product-card_11.jpg",
+                  "imgUrl3": "img/product-cards/product-card_11.jpg",
+                  "imgUrl4": "img/product-cards/product-card_11.jpg",
+                  "details": "Невероятное сочетание стиля и тепла! Наше стеганое пуховое пальто обеспечит вас комфортным теплом в холодные дни, сохраняя при этом элегантность вашего образа. Идеальный выбор для тех, кто ценит теплоту и стиль."
+               },
+               {
+                  "id": 6,
+                  "name": "Тренч с подкладкой из искусственного меха",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_12.jpg",
+                  "imgUrl2": "img/product-cards/product-card_12.jpg",
+                  "imgUrl3": "img/product-cards/product-card_12.jpg",
+                  "imgUrl4": "img/product-cards/product-card_12.jpg",
+                  "details": "Подчеркните свою неповторимость с нашим тренч-пальто, оснащенным стильной подкладкой из искусственного меха. Это идеальное сочетание классического дизайна и современной роскоши, добавляющее нотку уюта и шарма к вашему образу."
+               },
+               {
+                  "id": 7,
+                  "name": "Тренчкот классический",
+                  "price": "1950₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 8,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 9,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 10,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 11,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 12,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 13,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 14,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 15,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 16,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 17,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 18,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 19,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 20,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 21,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 22,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 23,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 24,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 25,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 26,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 27,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 28,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 29,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               }
+            ]
+         },
+         {
+            "name": "Куртки",
+            "objects": [
+               {
+                  "id": 34,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 35,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 36,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 37,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 38,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 39,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 40,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               }
+            ]
+         },
+         {
+            "name": "Костюмы",
+            "objects": [
+               {
+                  "id": 30,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 31,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 32,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               },
+               {
+                  "id": 33,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Мужчинам",
+      "subcategories": [
+         {
+            "name": "Куртки",
+            "objects": [
+               {
+                  "id": 1,
+                  "name": "Блузка с кружевными вставками",
+                  "price": "1000₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Элегантная блузка с кружевными вставками - идеальное дополнение к вашему гардеробу. Изготовлена из высококачественного хлопка для комфорта и стиля. Доступна в нескольких цветах, подходит как для повседневного, так и для вечернего образа."
+               },
+               {
+                  "id": 2,
+                  "name": "Пальто из шерсти с поясом",
+                  "price": "2800₽",
+                  "imgUrl1": "img/product-cards/product-card_5.webp",
+                  "imgUrl2": "img/product-cards/product-card_6.webp",
+                  "imgUrl3": "img/product-cards/product-card_7.webp",
+                  "imgUrl4": "img/product-cards/product-card_8.webp",
+                  "details": "Теплое и стильное пальто из натуральной шерсти с поясом. Идеально для холодной погоды"
+               },
+               {
+                  "id": 3,
+                  "name": "Пальто \"Оверсайз\" из кашемира",
+                  "price": "2500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Пальто \"Оверсайз\" из мягкого кашемира с крупной пуговицей. Подходит для разных образов."
+               },
+               {
+                  "id": 4,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               }
+            ]
+         },
+         {
+            "name": "Костюмы",
+            "objects": [
+               {
+                  "id": 1,
+                  "name": "Блузка с кружевными вставками",
+                  "price": "1000₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Элегантная блузка с кружевными вставками - идеальное дополнение к вашему гардеробу. Изготовлена из высококачественного хлопка для комфорта и стиля. Доступна в нескольких цветах, подходит как для повседневного, так и для вечернего образа."
+               },
+               {
+                  "id": 2,
+                  "name": "Пальто из шерсти с поясом",
+                  "price": "2800₽",
+                  "imgUrl1": "img/product-cards/product-card_5.webp",
+                  "imgUrl2": "img/product-cards/product-card_6.webp",
+                  "imgUrl3": "img/product-cards/product-card_7.webp",
+                  "imgUrl4": "img/product-cards/product-card_8.webp",
+                  "details": "Теплое и стильное пальто из натуральной шерсти с поясом. Идеально для холодной погоды"
+               },
+               {
+                  "id": 3,
+                  "name": "Пальто \"Оверсайз\" из кашемира",
+                  "price": "2500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Пальто \"Оверсайз\" из мягкого кашемира с крупной пуговицей. Подходит для разных образов."
+               },
+               {
+                  "id": 4,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Девочкам",
+      "subcategories": [
+         {
+            "name": "Куртки",
+            "objects": [
+               {
+                  "id": 1,
+                  "name": "Блузка с кружевными вставками",
+                  "price": "1000₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Элегантная блузка с кружевными вставками - идеальное дополнение к вашему гардеробу. Изготовлена из высококачественного хлопка для комфорта и стиля. Доступна в нескольких цветах, подходит как для повседневного, так и для вечернего образа."
+               },
+               {
+                  "id": 2,
+                  "name": "Пальто из шерсти с поясом",
+                  "price": "2800₽",
+                  "imgUrl1": "img/product-cards/product-card_5.webp",
+                  "imgUrl2": "img/product-cards/product-card_6.webp",
+                  "imgUrl3": "img/product-cards/product-card_7.webp",
+                  "imgUrl4": "img/product-cards/product-card_8.webp",
+                  "details": "Теплое и стильное пальто из натуральной шерсти с поясом. Идеально для холодной погоды"
+               },
+               {
+                  "id": 3,
+                  "name": "Пальто \"Оверсайз\" из кашемира",
+                  "price": "2500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Пальто \"Оверсайз\" из мягкого кашемира с крупной пуговицей. Подходит для разных образов."
+               },
+               {
+                  "id": 4,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               }
+            ]
+         },
+         {
+            "name": "Костюмы",
+            "objects": [
+               {
+                  "id": 1,
+                  "name": "Блузка с кружевными вставками",
+                  "price": "1000₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Элегантная блузка с кружевными вставками - идеальное дополнение к вашему гардеробу. Изготовлена из высококачественного хлопка для комфорта и стиля. Доступна в нескольких цветах, подходит как для повседневного, так и для вечернего образа."
+               },
+               {
+                  "id": 2,
+                  "name": "Пальто из шерсти с поясом",
+                  "price": "2800₽",
+                  "imgUrl1": "img/product-cards/product-card_5.webp",
+                  "imgUrl2": "img/product-cards/product-card_6.webp",
+                  "imgUrl3": "img/product-cards/product-card_7.webp",
+                  "imgUrl4": "img/product-cards/product-card_8.webp",
+                  "details": "Теплое и стильное пальто из натуральной шерсти с поясом. Идеально для холодной погоды"
+               },
+               {
+                  "id": 3,
+                  "name": "Пальто \"Оверсайз\" из кашемира",
+                  "price": "2500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Пальто \"Оверсайз\" из мягкого кашемира с крупной пуговицей. Подходит для разных образов."
+               },
+               {
+                  "id": 4,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Мальчикам",
+      "subcategories": [
+         {
+            "name": "Куртки",
+            "objects": [
+               {
+                  "id": 1,
+                  "name": "Блузка с кружевными вставками",
+                  "price": "1000₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Элегантная блузка с кружевными вставками - идеальное дополнение к вашему гардеробу. Изготовлена из высококачественного хлопка для комфорта и стиля. Доступна в нескольких цветах, подходит как для повседневного, так и для вечернего образа."
+               },
+               {
+                  "id": 2,
+                  "name": "Пальто из шерсти с поясом",
+                  "price": "2800₽",
+                  "imgUrl1": "img/product-cards/product-card_5.webp",
+                  "imgUrl2": "img/product-cards/product-card_6.webp",
+                  "imgUrl3": "img/product-cards/product-card_7.webp",
+                  "imgUrl4": "img/product-cards/product-card_8.webp",
+                  "details": "Теплое и стильное пальто из натуральной шерсти с поясом. Идеально для холодной погоды"
+               },
+               {
+                  "id": 3,
+                  "name": "Пальто \"Оверсайз\" из кашемира",
+                  "price": "2500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Пальто \"Оверсайз\" из мягкого кашемира с крупной пуговицей. Подходит для разных образов."
+               },
+               {
+                  "id": 4,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               }
+            ]
+         },
+         {
+            "name": "Костюмы",
+            "objects": [
+               {
+                  "id": 1,
+                  "name": "Блузка с кружевными вставками",
+                  "price": "1000₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Элегантная блузка с кружевными вставками - идеальное дополнение к вашему гардеробу. Изготовлена из высококачественного хлопка для комфорта и стиля. Доступна в нескольких цветах, подходит как для повседневного, так и для вечернего образа."
+               },
+               {
+                  "id": 2,
+                  "name": "Пальто из шерсти с поясом",
+                  "price": "2800₽",
+                  "imgUrl1": "img/product-cards/product-card_5.webp",
+                  "imgUrl2": "img/product-cards/product-card_6.webp",
+                  "imgUrl3": "img/product-cards/product-card_7.webp",
+                  "imgUrl4": "img/product-cards/product-card_8.webp",
+                  "details": "Теплое и стильное пальто из натуральной шерсти с поясом. Идеально для холодной погоды"
+               },
+               {
+                  "id": 3,
+                  "name": "Пальто \"Оверсайз\" из кашемира",
+                  "price": "2500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Пальто \"Оверсайз\" из мягкого кашемира с крупной пуговицей. Подходит для разных образов."
+               },
+               {
+                  "id": 4,
+                  "name": "Тренчкот классический",
+                  "price": "1500₽",
+                  "imgUrl1": "img/product-cards/product-card_1.jpg",
+                  "imgUrl2": "img/product-cards/product-card_2.jpg",
+                  "imgUrl3": "img/product-cards/product-card_3.jpg",
+                  "imgUrl4": "img/product-cards/product-card_4.jpg",
+                  "details": "Классический тренчкот с поясом, идеальный для дождливой погоды и деловых встреч."
+               }
+            ]
+         }
+      ]
+   }
+]

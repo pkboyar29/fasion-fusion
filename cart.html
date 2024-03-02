@@ -1,0 +1,375 @@
+<!--Сообщаем браузеру, как стоит обрабатывать эту страницу; показываем, что документ написан на html5, без этого тега наш код и css не пройдут проверку валидатором-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1.0">
+	<title>Корзина - Fasion Fusion</title>
+
+	<!-- Устаналивает фавикон -->
+	<link rel="shortcut icon" href="img/favicon.ico">
+
+	<!-- Подключение шрифтов из Google Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap" rel="stylesheet">
+
+	<!-- Подключение css Bootstrap5 -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+		integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+
+	<!-- Подключение остальных css стилей -->
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+	<header class="header pt-4 pb-4 fixed-top">
+      <nav class="navbar navbar-expand-lg">
+         <div class="container">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+               aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+               <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="header__logo" href="index.html">FasionFusion</a>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+               <ul class="navbar-nav">
+                  <li class="header__link nav-item dropdown">
+                     <a class="nav-link " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Женщинам
+                     </a>
+
+                     <ul class="dropdown-menu">
+                        <ul class="dropdown__element">
+                           <li>
+                              <div class="dropdown__title">ОДЕЖДА</a>
+                           </li>
+                           <li><a class="dropdown__item" href="index.html#women/coats">Пальто</a></li>
+                           <li><a class="dropdown__item" href="index.html#women/jackets">Куртки</a></li>
+                           <li><a class="dropdown__item" href="index.html#women/costumes">Костюмы</a></li>
+                           <li><a class="dropdown__item" href="#">Платья</a></li>
+                           <li><a class="dropdown__item" href="#">Кардиганы и свитера</a></li>
+                           <li><a class="dropdown__item" href="#">Футболки и топики</a></li>
+                           <li><a class="dropdown__item" href="#">Свитшоты и худи</a></li>
+                           <li><a class="dropdown__item" href="#">Брюки</a></li>
+                           <li><a class="dropdown__item" href="#">Джинсы</a></li>
+                           <li><a class="dropdown__item" href="#">Шорты</a></li>
+                           <li><a class="dropdown__item" href="#">Юбки</a></li>
+                           <li><a class="dropdown__item" href="#">Спортивная одежда</a></li>
+                           <li><a class="dropdown__item" href="#">Плавательная одежда</a></li>
+                        </ul>
+                        <ul class="dropdown__element">
+                           <li>
+                              <div class="dropdown__title">ОБУВЬ</a>
+                           </li>
+                           <li><a class="dropdown__item" href="#">Ботинки</a></li>
+                           <li><a class="dropdown__item" href="#">Каблуки</a></li>
+                           <li><a class="dropdown__item" href="#">Босоножки</a></li>
+                           <li><a class="dropdown__item" href="#">Сандали</a></li>
+                           <li><a class="dropdown__item" href="#">Кроссовки</a></li>
+                           <li><a class="dropdown__item" href="#">Кожаная обувь</a></li>
+                        </ul>
+                        <ul class="dropdown__element">
+                           <li>
+                              <div class="dropdown__title">АКСЕССУАРЫ</a>
+                           </li>
+                           <li><a class="dropdown__item" href="#">Сумки</a></li>
+                           <li><a class="dropdown__item" href="#">Рюкзаки</a></li>
+                           <li><a class="dropdown__item" href="#">Шляпы и шарфы</a></li>
+                           <li><a class="dropdown__item" href="#">Пояса и ремни</a></li>
+                           <li><a class="dropdown__item" href="#">Украшения</a></li>
+                           <li><a class="dropdown__item" href="#">Часы</a></li>
+                           <li><a class="dropdown__item" href="#">Солнцезащитные очки</a></li>
+                           <li><a class="dropdown__item" href="#">Кошельки</a></li>
+                           <li><a class="dropdown__item" href="#">Перчатки</a></li>
+                           <li><a class="dropdown__item" href="#">Носки</a></li>
+                           <li><a class="dropdown__item" href="#">Колготки</a></li>
+                        </ul>
+                     </ul>
+                  </li>
+                  <li class="header__link nav-item dropdown">
+                     <a class="nav-link " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Мужчинам
+                     </a>
+
+                     <ul class="dropdown-menu">
+                        <ul class="dropdown__element">
+                           <li>
+                              <div class="dropdown__title">ОДЕЖДА</a>
+                           </li>
+                           <li><a class="dropdown__item" href="#">Пальто</a></li>
+                           <li><a class="dropdown__item" href="#">Куртки</a></li>
+                           <li><a class="dropdown__item" href="#">Костюмы</a></li>
+                           <li><a class="dropdown__item" href="#">Платья</a></li>
+                           <li><a class="dropdown__item" href="#">Кардиганы и свитера</a></li>
+                           <li><a class="dropdown__item" href="#">Футболки и топики</a></li>
+                           <li><a class="dropdown__item" href="#">Свитшоты и худи</a></li>
+                           <li><a class="dropdown__item" href="#">Брюки</a></li>
+                           <li><a class="dropdown__item" href="#">Джинсы</a></li>
+                           <li><a class="dropdown__item" href="#">Шорты</a></li>
+                           <li><a class="dropdown__item" href="#">Юбки</a></li>
+                           <li><a class="dropdown__item" href="#">Нижнее белье</a></li>
+                           <li><a class="dropdown__item" href="#">Спортивная одежда</a></li>
+                           <li><a class="dropdown__item" href="#">Плавательная одежда</a></li>
+                        </ul>
+                        <ul class="dropdown__element">
+                           <li>
+                              <div class="dropdown__title">ОБУВЬ</a>
+                           </li>
+                           <li><a class="dropdown__item" href="#">Ботинки</a></li>
+                           <li><a class="dropdown__item" href="#">Каблуки</a></li>
+                           <li><a class="dropdown__item" href="#">Босоножки</a></li>
+                           <li><a class="dropdown__item" href="#">Сандали</a></li>
+                           <li><a class="dropdown__item" href="#">Кроссовки</a></li>
+                           <li><a class="dropdown__item" href="#">Кожаная обувь</a></li>
+                        </ul>
+                        <ul class="dropdown__element">
+                           <li>
+                              <div class="dropdown__title">АКСЕССУАРЫ</a>
+                           </li>
+                           <li><a class="dropdown__item" href="#">Сумки</a></li>
+                           <li><a class="dropdown__item" href="#">Рюкзаки</a></li>
+                           <li><a class="dropdown__item" href="#">Шляпы и шарфы</a></li>
+                           <li><a class="dropdown__item" href="#">Пояса и ремни</a></li>
+                           <li><a class="dropdown__item" href="#">Украшения</a></li>
+                           <li><a class="dropdown__item" href="#">Часы</a></li>
+                           <li><a class="dropdown__item" href="#">Солнцезащитные очки</a></li>
+                           <li><a class="dropdown__item" href="#">Кошельки</a></li>
+                           <li><a class="dropdown__item" href="#">Перчатки</a></li>
+                           <li><a class="dropdown__item" href="#">Носки</a></li>
+                           <li><a class="dropdown__item" href="#">Колготки</a></li>
+                        </ul>
+                     </ul>
+                  </li>
+
+                  <li class="header__link nav-item dropdown">
+                     <a class="nav-link " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Девочкам
+                     </a>
+
+                     <ul class="dropdown-menu">
+                        <ul class="dropdown__element">
+                           <li>
+                              <div class="dropdown__title">ОДЕЖДА</a>
+                           </li>
+                           <li><a class="dropdown__item" href="#">Пальто</a></li>
+                           <li><a class="dropdown__item" href="#">Куртки</a></li>
+                           <li><a class="dropdown__item" href="#">Костюмы</a></li>
+                           <li><a class="dropdown__item" href="#">Платья</a></li>
+                           <li><a class="dropdown__item" href="#">Кардиганы и свитера</a></li>
+                           <li><a class="dropdown__item" href="#">Футболки и топики</a></li>
+                           <li><a class="dropdown__item" href="#">Свитшоты и худи</a></li>
+                           <li><a class="dropdown__item" href="#">Брюки</a></li>
+                           <li><a class="dropdown__item" href="#">Джинсы</a></li>
+                           <li><a class="dropdown__item" href="#">Шорты</a></li>
+                           <li><a class="dropdown__item" href="#">Юбки</a></li>
+                           <li><a class="dropdown__item" href="#">Нижнее белье</a></li>
+                           <li><a class="dropdown__item" href="#">Спортивная одежда</a></li>
+                           <li><a class="dropdown__item" href="#">Плавательная одежда</a></li>
+                        </ul>
+                        <ul class="dropdown__element">
+                           <li>
+                              <div class="dropdown__title">ОБУВЬ</a>
+                           </li>
+                           <li><a class="dropdown__item" href="#">Ботинки</a></li>
+                           <li><a class="dropdown__item" href="#">Каблуки</a></li>
+                           <li><a class="dropdown__item" href="#">Босоножки</a></li>
+                           <li><a class="dropdown__item" href="#">Сандали</a></li>
+                           <li><a class="dropdown__item" href="#">Кроссовки</a></li>
+                           <li><a class="dropdown__item" href="#">Кожаная обувь</a></li>
+                        </ul>
+                        <ul class="dropdown__element">
+                           <li>
+                              <div class="dropdown__title">АКСЕССУАРЫ</a>
+                           </li>
+                           <li><a class="dropdown__item" href="#">Сумки</a></li>
+                           <li><a class="dropdown__item" href="#">Рюкзаки</a></li>
+                           <li><a class="dropdown__item" href="#">Шляпы и шарфы</a></li>
+                           <li><a class="dropdown__item" href="#">Пояса и ремни</a></li>
+                           <li><a class="dropdown__item" href="#">Украшения</a></li>
+                           <li><a class="dropdown__item" href="#">Часы</a></li>
+                           <li><a class="dropdown__item" href="#">Солнцезащитные очки</a></li>
+                           <li><a class="dropdown__item" href="#">Кошельки</a></li>
+                           <li><a class="dropdown__item" href="#">Перчатки</a></li>
+                           <li><a class="dropdown__item" href="#">Носки</a></li>
+                           <li><a class="dropdown__item" href="#">Колготки</a></li>
+                        </ul>
+
+                     </ul>
+
+                  </li>
+                  <li class="header__link nav-item dropdown">
+                     <a class="nav-link " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Мальчикам
+                     </a>
+
+                     <ul class="dropdown-menu">
+                        <ul class="dropdown__element">
+                           <li>
+                              <div class="dropdown__title">ОДЕЖДА</a>
+                           </li>
+                           <li><a class="dropdown__item" href="#">Пальто</a></li>
+                           <li><a class="dropdown__item" href="#">Куртки</a></li>
+                           <li><a class="dropdown__item" href="#">Костюмы</a></li>
+                           <li><a class="dropdown__item" href="#">Платья</a></li>
+                           <li><a class="dropdown__item" href="#">Кардиганы и свитера</a></li>
+                           <li><a class="dropdown__item" href="#">Футболки и топики</a></li>
+                           <li><a class="dropdown__item" href="#">Свитшоты и худи</a></li>
+                           <li><a class="dropdown__item" href="#">Брюки</a></li>
+                           <li><a class="dropdown__item" href="#">Джинсы</a></li>
+                           <li><a class="dropdown__item" href="#">Шорты</a></li>
+                           <li><a class="dropdown__item" href="#">Юбки</a></li>
+                           <li><a class="dropdown__item" href="#">Нижнее белье</a></li>
+                           <li><a class="dropdown__item" href="#">Спортивная одежда</a></li>
+                           <li><a class="dropdown__item" href="#">Плавательная одежда</a></li>
+                        </ul>
+                        <ul class="dropdown__element">
+                           <li>
+                              <div class="dropdown__title">ОБУВЬ</a>
+                           </li>
+                           <li><a class="dropdown__item" href="#">Ботинки</a></li>
+                           <li><a class="dropdown__item" href="#">Каблуки</a></li>
+                           <li><a class="dropdown__item" href="#">Босоножки</a></li>
+                           <li><a class="dropdown__item" href="#">Сандали</a></li>
+                           <li><a class="dropdown__item" href="#">Кроссовки</a></li>
+                           <li><a class="dropdown__item" href="#">Кожаная обувь</a></li>
+                        </ul>
+                        <ul class="dropdown__element">
+                           <li>
+                              <div class="dropdown__title">АКСЕССУАРЫ</a>
+                           </li>
+                           <li><a class="dropdown__item" href="#">Сумки</a></li>
+                           <li><a class="dropdown__item" href="#">Рюкзаки</a></li>
+                           <li><a class="dropdown__item" href="#">Шляпы и шарфы</a></li>
+                           <li><a class="dropdown__item" href="#">Пояса и ремни</a></li>
+                           <li><a class="dropdown__item" href="#">Украшения</a></li>
+                           <li><a class="dropdown__item" href="#">Часы</a></li>
+                           <li><a class="dropdown__item" href="#">Солнцезащитные очки</a></li>
+                           <li><a class="dropdown__item" href="#">Кошельки</a></li>
+                           <li><a class="dropdown__item" href="#">Перчатки</a></li>
+                           <li><a class="dropdown__item" href="#">Носки</a></li>
+                           <li><a class="dropdown__item" href="#">Колготки</a></li>
+                        </ul>
+                     </ul>
+                  </li>
+               </ul>
+
+               <a href="tel:89999999999" class="header__phone">8 (899) 999-99-99</a>
+
+               <div class="header__toolbar">
+                  <a href="cart.html" class="header__cart">
+                     <div class="header__cart-img"><img src="img/cart.svg" alt=""></div>
+                     <div id="cartItemCount" class="header__cart-text">0</div>
+                  </a>
+               </div>
+
+            </div>
+         </div>
+      </nav>
+   </header>
+
+<div class="wrapper">
+	<div class="content">
+      <div class="cart">
+         <div class="container">
+            <div class="cart__top">
+               <div class="cart__title title">Корзина</div>
+               <div class="cart__deleteall">
+                  <img src="img/delete.svg" alt="" class="cart__deleteall-icon">
+                  <div class="cart__deleteall-text">Удалить все</div>
+               </div>
+            </div>
+
+            <div class="cart__content row">
+
+					<!-- <div class="cart__item col-lg-4 col-sm-6 col-xs-12">
+						<img src="img/product-cards/product-card_1.jpg" alt="" class="cart__item-img">
+
+						<div class="cart__item-delete">
+							<img src="img/delete.svg" alt="">
+						</div>
+
+						<div class="cart__item-underimg">
+
+							<div class="cart__item-left">
+								<div class="cart__item-title">Блузка с кружевными вставками</div>
+								<div class="cart__item-price">1000₽</div>	
+							</div>
+	
+							<div class="cart__number-input number-input">
+								<input readonly type="text" value="1" min="1" max="10">
+								<div class="number-input__panel">
+									<img src="img/up.svg" alt="" class="increment">
+									<img src="img/down.svg" alt="" class="decrement">	
+								</div>
+							</div>	
+
+						</div>
+
+					</div> -->
+
+				</div>
+
+            <div class="cart__goshop cart__goshop-none">
+               Ваша корзина пуста. Воспользуйтесь меню, чтобы перейти к просмотру товаров.
+            </div>
+         </div>
+      </div>
+	</div>
+
+   <div class="cart__summary">Суммарная стоимость: 0₽</div>
+
+   <div class="cart__orderbutton">
+      <img src="img/order.svg" alt="" class="cart__orderbutton-icon">
+      <div class="cart__orderbutton-text">Оформить заказ</div>
+   </div>
+
+	<footer class="footer">
+		<div class="container">
+			<div class="footer__row">
+				<div class="footer__col">
+					<div class="footer__title">
+						Связаться с нами
+					</div>
+					<div class="footer__menu">
+						<div class="footer__text">Email: hello@ffusion.com</div>
+						<div class="footer__text">Телефон: 8 (899) 999 99-99</div>
+						<a href="chatbot.html" class="footer__text">Связаться с чат-ботом</a>
+						<div class="footer__socials">
+							<div class="footer__social"><img src="img/facebook.svg" alt=""></div>
+							<div class="footer__social"><img src="img/insta.svg" alt=""></div>
+							<div class="footer__social"><img src="img/youtube.svg" alt=""></div>
+						</div>
+					</div>
+				</div>
+
+				<div class="footer__col">
+					<div class="footer__title">
+						СКАчивайте наше приложение
+					</div>
+					<div class="footer__prils">
+						<div class="footer__pril"><img src="img/google-play.png" alt=""></div>
+						<div class="footer__pril"><img src="img/app-store.png" alt=""></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</footer>
+</div>
+
+	<!-- Подключение js Bootstrap5 вместе с Popper -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+		integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+		crossorigin="anonymous"></script>
+
+	<!-- Подключение собственных js файлов -->
+	<script src="js/ProductById.js"></script>
+   <script src="js/script.js"></script>
+	<script src="js/cart.js"></script>
+</body>
+
+</html>
